@@ -33,8 +33,7 @@ pip install pandas xgboost scikit-learn matplotlib
 Python
 import pickle
 import pandas as pd
-```
-```# Load the trained model 
+# Load the trained model 
 with open('chess_predictor.pkl', 'rb') as f:
     model = pickle.load(f)
 
