@@ -1,7 +1,7 @@
-♟️ Chess Match Winner Predictor
-This project aims to predict the outcome of chess matches played on Lichess using Machine Learning. The journey involves data preprocessing, feature engineering, and a deep dive into avoiding Data Leakage to build a reliable real-time predictor.
+#♟️ Chess Match Winner Predictor
+## This project aims to predict the outcome of chess matches played on Lichess using Machine Learning. The journey involves data preprocessing, feature engineering, and a deep dive into avoiding Data Leakage to build a reliable real-time predictor.
 
-🚀 Project Overview
+### 🚀 Project Overview
 The goal is to determine whether White or Black will win (or if the game will end in a draw) based on pre-game information such as player ratings and opening choices.
 
 Key Technical Achievements:
